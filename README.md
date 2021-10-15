@@ -3,17 +3,18 @@ I'm Frontend Developer developer with 1+ years of experience in software develop
 #
 ### Technologies and tools
 >JavaScript
-</br>ReactJS (Basic knowledge)
+</br>React JS (Basic knowledge)
 </br>Redux (Basic knowledge)
 </br>NodeJS
 </br>HTML5
 </br>CSS3
 </br>SCSS
 </br>Git
+</br>Flux
 </br>jQuery
 #
 
-📫My e-mail: artemkimi@protonmail.com
+
 
 
 <!--
