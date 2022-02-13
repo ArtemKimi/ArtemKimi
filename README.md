@@ -3,15 +3,15 @@ I'm Frontend Developer developer with 1+ years of experience in software develop
 #
 ### Technologies and tools
 > - JavaScript
-</br> - React JS (Basic knowledge)
-</br> - Redux (Basic knowledge)
-</br> - NodeJS (Basic knowledge)
-</br> - HTML5
-</br> - CSS3
-</br> - SCSS
-</br> - Git
-</br> - Flux
-</br> - jQuery
+ - React JS (Basic knowledge)
+ - Redux (Basic knowledge)
+ - NodeJS (Basic knowledge)
+ - HTML5
+ - CSS3
+ - SCSS
+ - Git
+ - Flux
+ - jQuery
 #
 
 
