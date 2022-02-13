@@ -2,7 +2,7 @@
 I'm Frontend Developer developer with 1+ years of experience in software development.
 #
 ### Technologies and tools
-> - JavaScript
+ - JavaScript
  - React JS (Basic knowledge)
  - Redux (Basic knowledge)
  - NodeJS (Basic knowledge)
