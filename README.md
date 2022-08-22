@@ -1,5 +1,5 @@
 ## Hi! 👋 My name is Artem! 
-I'm Frontend Developer developer with 1+ years of experience in software development.
+
 #
 ### Technologies and tools
  - JavaScript
